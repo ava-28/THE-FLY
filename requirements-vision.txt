@@ -1,0 +1,4 @@
+# Minimal dependencies for stage 2; your existing environment is also supported.
+numpy>=1.26
+matplotlib>=3.8
+torch>=2.2

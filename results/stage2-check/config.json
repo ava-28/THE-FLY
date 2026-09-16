@@ -1,0 +1,25 @@
+{
+  "data": "data/check",
+  "output": "runs/check",
+  "epochs": 12,
+  "batch_size": 64,
+  "lr": 0.001,
+  "seed": 7,
+  "threads": 2,
+  "device": "cpu",
+  "device_used": "cpu",
+  "torch_version": "2.14.0+cpu",
+  "train": {
+    "included": 2400,
+    "total": 2400,
+    "excluded_dark": 0,
+    "excluded_blank": 0
+  },
+  "val": {
+    "included": 600,
+    "total": 600,
+    "excluded_dark": 0,
+    "excluded_blank": 0
+  },
+  "manifest_sha256": "b56c5f52c8d85e1e6ca44ef7e93b065e1b1438c51d4eb097095da93513a3bb5b"
+}
