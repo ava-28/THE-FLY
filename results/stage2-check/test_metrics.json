@@ -1,0 +1,20 @@
+{
+  "frames": {
+    "included": 600,
+    "total": 600,
+    "excluded_dark": 0,
+    "excluded_blank": 0
+  },
+  "checkpoint_epoch": 11,
+  "mean_error_deg": 0.8218228816986084,
+  "median_error_deg": 0.6946644186973572,
+  "p95_error_deg": 2.099005937576294,
+  "within_5_deg_percent": 100.0,
+  "episode_mean_errors_deg": [
+    0.7587095499038696,
+    0.8173219561576843,
+    0.889437198638916
+  ],
+  "near_zero_output_count": 0,
+  "scope": "Illuminated landmark frames; same arena, held-out episodes. No memory or RL."
+}
